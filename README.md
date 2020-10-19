@@ -10,11 +10,15 @@ Data Analysis Basics:
 
 [Intro to Pandas](https://youtu.be/vmEHCJofslg)
 [Hands on project with Pandas](https://youtu.be/eMOA1pPVUc4)
-
 [Intro to Numpy] (https://youtu.be/QUT1VHiLmmI)
-
 [Intro to Matplotlib Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
 Machine Learning
 
 [Andrew Ng's course on ML](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+[Machine Learning Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+
+Most useful Youtube Channels for Data Science and Machine Learning
+
+[Data School](https://www.youtube.com/user/dataschool)
+[Krish Naik](https://www.youtube.com/user/krishnaik06)
