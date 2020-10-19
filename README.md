@@ -7,7 +7,6 @@ Web Scraping:
 [Web Scraoing Video Tutorial](https://youtu.be/XQgXKtPSzUI)
 
 Data Analysis Basics:
-
 [Intro to Pandas](https://youtu.be/vmEHCJofslg)
 [Hands on project with Pandas](https://youtu.be/eMOA1pPVUc4)
 [Intro to Numpy] (https://youtu.be/QUT1VHiLmmI)
