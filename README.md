@@ -3,9 +3,10 @@
 Given below are the links for some of the resources where you can learn Machine Learning for free. If you want to add any resource, feel free to make changes, I will accept them. 
 
 ##### Web Scraping:
+
 [Intro to Web Scraping] (https://towardsdatascience.com/data-science-skills-web-scraping-using-python-d1a85ef607ed)
 
-[Web Scraoing Video Tutorial](https://youtu.be/XQgXKtPSzUI)
+[Web Scraping Video Tutorial](https://youtu.be/XQgXKtPSzUI)
 
 ##### Data Analysis Basics:
 
