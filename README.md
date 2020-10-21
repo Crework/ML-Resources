@@ -4,7 +4,7 @@ Given below are the links for some of the resources where you can learn Machine 
 
 ##### Web Scraping:
 
-[Intro to Web Scraping] (https://towardsdatascience.com/data-science-skills-web-scraping-using-python-d1a85ef607ed)
+[Intro to Web Scraping](https://towardsdatascience.com/data-science-skills-web-scraping-using-python-d1a85ef607ed)
 
 [Web Scraping Video Tutorial](https://youtu.be/XQgXKtPSzUI)
 
