@@ -18,6 +18,10 @@ Given below are the links for some of the resources where you can learn Machine 
 
 [Intro to Matplotlib Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
+#### Exploratory Data Analysis
+
+[Feature Engineering Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
+
 #### Machine Learning
 
 [Andrew Ng's course on ML](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
@@ -25,6 +29,8 @@ Given below are the links for some of the resources where you can learn Machine 
 [Machine Learning Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 
 [Machine Learning Algorithms by Statquest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+
+[Data Science Mock Interviews](https://www.youtube.com/playlist?list=PLZoTAELRMXVN4ypDZ4Qd0nfWR_I7xl368)
 
 #### Most useful Youtube Channels for Data Science and Machine Learning
 
