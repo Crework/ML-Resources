@@ -24,8 +24,12 @@ Given below are the links for some of the resources where you can learn Machine 
 
 [Machine Learning Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 
+[Machine Learning Algorithms by Statquest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+
 #### Most useful Youtube Channels for Data Science and Machine Learning
 
 [Data School](https://www.youtube.com/user/dataschool)
 
 [Krish Naik](https://www.youtube.com/user/krishnaik06)
+
+[Statquest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
