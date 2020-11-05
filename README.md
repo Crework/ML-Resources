@@ -1,4 +1,4 @@
-# ML-Resources
+# Machine Learning Resources
 
 Given below are the links for some of the resources where you can learn Machine Learning for free. If you want to add any resource, feel free to make changes, I will accept them. 
 
