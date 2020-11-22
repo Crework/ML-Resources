@@ -16,6 +16,10 @@ Given below are the links for some of the resources where you can learn Machine 
 
 [Web Scraping Video Tutorial](https://youtu.be/XQgXKtPSzUI)
 
+#### Mathematics for Machine Learning
+
+[Free Resources for Mathematics for Machine Learning](https://github.com/Crework/Mathematics-for-Machine-Learning)
+
 #### Data Analysis Basics:
 
 [Intro to Pandas](https://youtu.be/vmEHCJofslg)
