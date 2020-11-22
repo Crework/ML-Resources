@@ -1,6 +1,14 @@
 # Machine Learning Resources
 
+The main aim of this repository is to make Machine Learning education free and accessible to all without much hustle. All the resources that are selected are there because of the personal experience of the members of Crework with those free resources. The material is arranged in a specific order so that you don't have to go anywhere else to know the "roadmap" of Machine Learning.
+
 Given below are the links for some of the resources where you can learn Machine Learning for free. If you want to add any resource, feel free to make changes, I will accept them. 
+
+#### Python Programming
+
+[Introduction to Python Programming by MIT](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
+
+[Introduction to Computer Science with Python by MIT (Class Lecture Videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 #### Web Scraping:
 
