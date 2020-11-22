@@ -34,7 +34,7 @@ Given below are the links for some of the resources where you can learn Machine 
 
 [Feature Engineering Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
 
-[Book: Hands on Machine Learning with Scikit Learn and Tensorflow](https://github.com/Crework/ML-Resources/blob/main/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20Keras%20and%20TensorFlow.pdf)
+[Book: Hands on Machine Learning with Scikit Learn and Tensorflow](https://github.com/Crework/ML-Resources/blob/main/ML%20Books/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20Keras%20and%20TensorFlow.pdf)
 
 #### Introduction to Machine Learning
 
@@ -42,7 +42,7 @@ Given below are the links for some of the resources where you can learn Machine 
 
 [Cornell CS4780 "Machine Learning for Intelligent Systems"](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 
-[Book: The Hundred Page Machine Learning Book](https://github.com/Crework/ML-Resources/blob/main/The%20Hundred%20Page%20Machine%20Learning%20Book.pdf)
+[Book: The Hundred Page Machine Learning Book](https://github.com/Crework/ML-Resources/blob/main/ML%20Books/The%20Hundred%20Page%20Machine%20Learning%20Book.pdf)
 
 #### Implementing Machine Learning
 
