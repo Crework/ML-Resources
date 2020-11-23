@@ -59,3 +59,10 @@ Given below are the links for some of the resources where you can learn Machine 
 [Krish Naik](https://www.youtube.com/user/krishnaik06)
 
 [Statquest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+
+
+### What to do next
+
+Get started with Deep Learning now. Crework gives you access to organized free resources to get started with Deep Learning. Given below are the resources to get started with them:
+
+[Free Deep Learning Resources](https://github.com/Crework/Deep-Learning-Resources)
