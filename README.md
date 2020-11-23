@@ -63,6 +63,6 @@ Given below are the links for some of the resources where you can learn Machine 
 
 ### What to do next
 
-Get started with Deep Learning now. Crework gives you access to organized free resources to get started with Deep Learning. Given below are the resources to get started with them:
+Get started with Deep Learning now. Crework gives you access to organized free resources to get started with Deep Learning. Just go to the repository mentioned below.:
 
 [Free Deep Learning Resources](https://github.com/Crework/Deep-Learning-Resources)
