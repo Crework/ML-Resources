@@ -60,6 +60,7 @@ Given below are the links for some of the resources where you can learn Machine 
 
 [Statquest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 
+[AI Engineering](https://www.youtube.com/c/AIEngineeringLife)
 
 ### What to do next
 
