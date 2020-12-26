@@ -6,19 +6,21 @@ Given below are the links for some of the resources where you can learn Machine 
 
 #### Python Programming
 
+If you want to do Machine Learning, Python is the most popular and useful language for that. If you already know Python, skip this part.
+
 [Introduction to Python Programming by MIT](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
 
 [Introduction to Computer Science with Python by MIT (Class Lecture Videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+
+#### Mathematics for Machine Learning
+
+[Free Resources for Mathematics for Machine Learning](https://github.com/Crework/Mathematics-for-Machine-Learning)
 
 #### Web Scraping:
 
 [Intro to Web Scraping](https://towardsdatascience.com/data-science-skills-web-scraping-using-python-d1a85ef607ed)
 
 [Web Scraping Video Tutorial](https://youtu.be/XQgXKtPSzUI)
-
-#### Mathematics for Machine Learning
-
-[Free Resources for Mathematics for Machine Learning](https://github.com/Crework/Mathematics-for-Machine-Learning)
 
 #### Data Analysis Basics:
 
@@ -38,11 +40,12 @@ Given below are the links for some of the resources where you can learn Machine 
 
 #### Introduction to Machine Learning
 
-[Andrew Ng's course on ML](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+1. Video Lectures (Do any one out of these)
+- [Andrew Ng's course on ML](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
-[Cornell CS4780 "Machine Learning for Intelligent Systems"](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+- [Cornell CS4780 "Machine Learning for Intelligent Systems"](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 
-[Book: The Hundred Page Machine Learning Book](https://github.com/Crework/ML-Resources/blob/main/ML%20Books/The%20Hundred%20Page%20Machine%20Learning%20Book.pdf)
+2. [Book: The Hundred Page Machine Learning Book](https://github.com/Crework/ML-Resources/blob/main/ML%20Books/The%20Hundred%20Page%20Machine%20Learning%20Book.pdf)
 
 #### Implementing Machine Learning
 
