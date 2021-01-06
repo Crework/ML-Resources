@@ -4,6 +4,8 @@ The main aim of this repository is to make Machine Learning education free and a
 
 Given below are the links for some of the resources where you can learn Machine Learning for free. If you want to add any resource, feel free to make changes, I will accept them. 
 
+## Prerequisites
+
 #### Python Programming
 
 If you want to do Machine Learning, Python is the most popular and useful language for that. If you already know Python, skip this part. Do one out of these two courses given below.
@@ -21,6 +23,8 @@ If you want to do Machine Learning, Python is the most popular and useful langua
 [Intro to Web Scraping](https://towardsdatascience.com/data-science-skills-web-scraping-using-python-d1a85ef607ed)
 
 [Web Scraping Video Tutorial](https://youtu.be/XQgXKtPSzUI)
+
+## Done with prerequisites? Start here!!
 
 #### Data Analysis Basics:
 
