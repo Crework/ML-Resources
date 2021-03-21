@@ -36,15 +36,21 @@ If you want to do some projects in python to get more hands on experience, you c
 
 [Intro to Pandas](https://youtu.be/vmEHCJofslg)
 
+[Pandas Colab Exercise](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=pandas_tf2-colab&hl=en)
+
 [Hands on project with Pandas](https://youtu.be/eMOA1pPVUc4)
 
 [Intro to Numpy](https://youtu.be/QUT1VHiLmmI)
+
+[Numpy Colab Exercise](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/numpy_ultraquick_tutorial.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=numpy_tf2-colab&hl=en)
 
 [Intro to Matplotlib Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
 #### Exploratory Data Analysis
 
 [Feature Engineering Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
+
+[Feature Engineering Micro Course on Kaggle](https://www.kaggle.com/learn/feature-engineering)
 
 [Book: Hands on Machine Learning with Scikit Learn and Tensorflow](https://github.com/Crework/ML-Resources/blob/main/ML%20Books/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20Keras%20and%20TensorFlow.pdf)
 
@@ -56,6 +62,8 @@ If you want to do some projects in python to get more hands on experience, you c
 - [Cornell CS4780 "Machine Learning for Intelligent Systems"](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 
 2. [Book: The Hundred Page Machine Learning Book](https://github.com/Crework/ML-Resources/blob/main/ML%20Books/The%20Hundred%20Page%20Machine%20Learning%20Book.pdf)
+
+3. [Maths and Concepts of Machine Learning - Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises) 
 
 #### Implementing Machine Learning
 
