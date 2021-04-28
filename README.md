@@ -6,7 +6,7 @@ Given below are the links for some of the resources where you can learn Machine 
 
 ## Prerequisites
 
-#### Python Programming
+### Python Programming
 
 If you already know Python, skip this part.
 
@@ -16,15 +16,15 @@ If you want to do Machine Learning, Python is the most popular and useful langua
 
 [Introduction to Computer Science with Python by MIT (Class Lecture Videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
-If you want to do some projects in python to get more hands on experience, you can refer to this video:
+#### If you want to do some projects in python to get more hands on experience, you can refer to this video:
 
 [12 Beginner Projects in Python](https://youtu.be/8ext9G7xspg)
 
-#### Mathematics for Machine Learning
+### Mathematics for Machine Learning
 
 [Free Resources for Mathematics for Machine Learning](https://github.com/Crework/Mathematics-for-Machine-Learning)
 
-#### Web Scraping (Optional)
+### Web Scraping (Optional)
 
 [Intro to Web Scraping](https://towardsdatascience.com/data-science-skills-web-scraping-using-python-d1a85ef607ed)
 
@@ -32,7 +32,7 @@ If you want to do some projects in python to get more hands on experience, you c
 
 ## Done with prerequisites? Start here!!
 
-#### Data Analysis Basics:
+### Data Analysis Basics:
 
 [Intro to Pandas](https://youtu.be/vmEHCJofslg)
 
@@ -46,7 +46,7 @@ If you want to do some projects in python to get more hands on experience, you c
 
 [Intro to Matplotlib Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
-#### Exploratory Data Analysis
+### Exploratory Data Analysis
 
 [Feature Engineering Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
 
@@ -54,7 +54,7 @@ If you want to do some projects in python to get more hands on experience, you c
 
 [Book: Hands on Machine Learning with Scikit Learn and Tensorflow](https://github.com/Crework/ML-Resources/blob/main/ML%20Books/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20Keras%20and%20TensorFlow.pdf)
 
-#### Introduction to Machine Learning
+### Introduction to Machine Learning
 
 1. Video Lectures (Do any one out of these)
 - [Andrew Ng's course on ML](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
@@ -65,7 +65,7 @@ If you want to do some projects in python to get more hands on experience, you c
 
 3. [Maths and Concepts of Machine Learning - Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises) 
 
-#### Implementing Machine Learning
+### Implementing Machine Learning
 
 [Machine Learning Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
 
@@ -73,7 +73,7 @@ If you want to do some projects in python to get more hands on experience, you c
 
 [Data Science Mock Interviews](https://www.youtube.com/playlist?list=PLZoTAELRMXVN4ypDZ4Qd0nfWR_I7xl368)
 
-#### Most useful Youtube Channels for Data Science and Machine Learning
+### Most useful Youtube Channels for Data Science and Machine Learning
 
 [Data School](https://www.youtube.com/user/dataschool)
 
@@ -83,7 +83,7 @@ If you want to do some projects in python to get more hands on experience, you c
 
 [AI Engineering](https://www.youtube.com/c/AIEngineeringLife)
 
-### What to do next
+## What to do next
 
 Get started with Deep Learning now. Crework gives you access to organized free resources to get started with Deep Learning. Just go to the repository mentioned below.:
 
