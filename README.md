@@ -10,15 +10,9 @@ Given below are the links for some of the resources where you can learn Machine 
 
 If you already know Python, skip this part.
 
-If you want to do Machine Learning, Python is the most popular and useful language for that. Do one out of these two courses given below.
+If you want to do Machine Learning, Python is the most popular and useful language for that. You can find various resources for studying python here:
 
-[Introduction to Python Programming by MIT](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
-
-[Introduction to Computer Science with Python by MIT (Class Lecture Videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
-
-#### If you want to do some projects in python to get more hands on experience, you can refer to this video:
-
-[12 Beginner Projects in Python](https://youtu.be/8ext9G7xspg)
+[Free Python Resources](https://github.com/Crework/Python-Resources)
 
 ### Mathematics for Machine Learning
 
